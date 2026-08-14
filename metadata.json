@@ -1,0 +1,6 @@
+{
+  "name": "SkillForge AI",
+  "description": "Personalized Learning & Career Mentor for College Students - Powered by Gemini AI",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
